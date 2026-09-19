@@ -1,0 +1,413 @@
+{
+ "facade": {
+  "variants": [
+   {
+    "w": 480,
+    "h": 564
+   },
+   {
+    "w": 1024,
+    "h": 1204
+   },
+   {
+    "w": 1600,
+    "h": 1881
+   }
+  ],
+  "aspect": 0.8506,
+  "source": "2026__03__27__entrance.jpg"
+ },
+ "interior-a": {
+  "variants": [
+   {
+    "w": 480,
+    "h": 258
+   },
+   {
+    "w": 1024,
+    "h": 551
+   },
+   {
+    "w": 1400,
+    "h": 753
+   }
+  ],
+  "aspect": 1.8587,
+  "source": "2026__03__27__about3.jpg"
+ },
+ "interior-b": {
+  "variants": [
+   {
+    "w": 480,
+    "h": 360
+   },
+   {
+    "w": 1024,
+    "h": 768
+   },
+   {
+    "w": 1400,
+    "h": 1050
+   }
+  ],
+  "aspect": 1.3333,
+  "source": "lunch__12.jpg"
+ },
+ "adana": {
+  "variants": [
+   {
+    "w": 480,
+    "h": 480
+   },
+   {
+    "w": 1024,
+    "h": 1024
+   },
+   {
+    "w": 1200,
+    "h": 1200
+   }
+  ],
+  "aspect": 1.0,
+  "source": "2026__03__31__1.jpg"
+ },
+ "falafel": {
+  "variants": [
+   {
+    "w": 480,
+    "h": 480
+   },
+   {
+    "w": 1024,
+    "h": 1024
+   },
+   {
+    "w": 1200,
+    "h": 1200
+   }
+  ],
+  "aspect": 1.0,
+  "source": "2026__03__31__2.jpg"
+ },
+ "chicken-shish": {
+  "variants": [
+   {
+    "w": 480,
+    "h": 480
+   },
+   {
+    "w": 1024,
+    "h": 1024
+   },
+   {
+    "w": 1200,
+    "h": 1200
+   }
+  ],
+  "aspect": 1.0,
+  "source": "2026__03__31__3.jpg"
+ },
+ "mixed-grill": {
+  "variants": [
+   {
+    "w": 480,
+    "h": 480
+   },
+   {
+    "w": 1024,
+    "h": 1024
+   },
+   {
+    "w": 1200,
+    "h": 1200
+   }
+  ],
+  "aspect": 1.0,
+  "source": "2026__03__31__4.jpg"
+ },
+ "shawarma-wrap": {
+  "variants": [
+   {
+    "w": 480,
+    "h": 480
+   },
+   {
+    "w": 1024,
+    "h": 1024
+   },
+   {
+    "w": 1200,
+    "h": 1200
+   }
+  ],
+  "aspect": 1.0,
+  "source": "2026__03__31__5.jpg"
+ },
+ "cat-salads": {
+  "variants": [
+   {
+    "w": 480,
+    "h": 480
+   },
+   {
+    "w": 800,
+    "h": 800
+   }
+  ],
+  "aspect": 1.0,
+  "source": "2026__04__01__salad-2.jpg"
+ },
+ "cat-cold": {
+  "variants": [
+   {
+    "w": 480,
+    "h": 480
+   },
+   {
+    "w": 800,
+    "h": 800
+   }
+  ],
+  "aspect": 1.0,
+  "source": "2026__04__01__cold-appetizers.jpeg"
+ },
+ "cat-hot": {
+  "variants": [
+   {
+    "w": 480,
+    "h": 480
+   },
+   {
+    "w": 800,
+    "h": 800
+   }
+  ],
+  "aspect": 1.0,
+  "source": "2026__04__01__hot-appetizers.jpeg"
+ },
+ "cat-veg": {
+  "variants": [
+   {
+    "w": 480,
+    "h": 480
+   },
+   {
+    "w": 800,
+    "h": 800
+   }
+  ],
+  "aspect": 1.0,
+  "source": "2026__04__01__vegetable-kebab.jpg"
+ },
+ "cat-sides": {
+  "variants": [
+   {
+    "w": 480,
+    "h": 480
+   },
+   {
+    "w": 800,
+    "h": 800
+   }
+  ],
+  "aspect": 1.0,
+  "source": "2026__04__01__side.jpg"
+ },
+ "cat-entrees": {
+  "variants": [
+   {
+    "w": 480,
+    "h": 480
+   },
+   {
+    "w": 800,
+    "h": 800
+   }
+  ],
+  "aspect": 1.0,
+  "source": "2026__04__01__entrees.jpeg"
+ },
+ "cat-wraps": {
+  "variants": [
+   {
+    "w": 480,
+    "h": 480
+   },
+   {
+    "w": 800,
+    "h": 800
+   }
+  ],
+  "aspect": 1.0,
+  "source": "2026__04__01__pita.jpg"
+ },
+ "cat-kids": {
+  "variants": [
+   {
+    "w": 480,
+    "h": 480
+   },
+   {
+    "w": 800,
+    "h": 800
+   }
+  ],
+  "aspect": 1.0,
+  "source": "2026__04__01__kids.jpg"
+ },
+ "cat-sweets": {
+  "variants": [
+   {
+    "w": 480,
+    "h": 480
+   },
+   {
+    "w": 800,
+    "h": 800
+   }
+  ],
+  "aspect": 1.0,
+  "source": "2026__04__01__sweet-corner.jpg"
+ },
+ "cat-drinks": {
+  "variants": [
+   {
+    "w": 480,
+    "h": 480
+   },
+   {
+    "w": 800,
+    "h": 800
+   }
+  ],
+  "aspect": 1.0,
+  "source": "2026__04__01__beverages.jpg"
+ },
+ "mezze": {
+  "variants": [
+   {
+    "w": 480,
+    "h": 227
+   },
+   {
+    "w": 1024,
+    "h": 484
+   },
+   {
+    "w": 1600,
+    "h": 757
+   }
+  ],
+  "aspect": 2.1136,
+  "source": "gallery__17.jpg"
+ },
+ "adana-table": {
+  "variants": [
+   {
+    "w": 480,
+    "h": 360
+   },
+   {
+    "w": 1000,
+    "h": 750
+   }
+  ],
+  "aspect": 1.3333,
+  "source": "gallery__7.jpg"
+ },
+ "wrap-table": {
+  "variants": [
+   {
+    "w": 480,
+    "h": 640
+   },
+   {
+    "w": 800,
+    "h": 1067
+   }
+  ],
+  "aspect": 0.75,
+  "source": "gallery__13.jpg"
+ },
+ "macro-bulgur": {
+  "variants": [
+   {
+    "w": 480,
+    "h": 480
+   },
+   {
+    "w": 1024,
+    "h": 1024
+   }
+  ],
+  "aspect": 1.0,
+  "source": "2026__03__31__1.jpg"
+ },
+ "macro-meat": {
+  "variants": [
+   {
+    "w": 480,
+    "h": 606
+   },
+   {
+    "w": 1024,
+    "h": 1293
+   }
+  ],
+  "aspect": 0.792,
+  "source": "2026__03__31__1.jpg"
+ },
+ "macro-pepper": {
+  "variants": [
+   {
+    "w": 480,
+    "h": 482
+   },
+   {
+    "w": 1024,
+    "h": 1028
+   }
+  ],
+  "aspect": 0.9961,
+  "source": "2026__03__31__1.jpg"
+ },
+ "macro-chicken": {
+  "variants": [
+   {
+    "w": 480,
+    "h": 479
+   },
+   {
+    "w": 1024,
+    "h": 1022
+   }
+  ],
+  "aspect": 1.002,
+  "source": "2026__03__31__3.jpg"
+ },
+ "macro-rice": {
+  "variants": [
+   {
+    "w": 480,
+    "h": 458
+   },
+   {
+    "w": 1024,
+    "h": 976
+   }
+  ],
+  "aspect": 1.0492,
+  "source": "2026__03__31__3.jpg"
+ },
+ "signature": {
+  "variants": [
+   {
+    "w": 1200,
+    "h": 634
+   }
+  ],
+  "aspect": 1.8927,
+  "source": "signature.png",
+  "alpha": true
+ }
+}

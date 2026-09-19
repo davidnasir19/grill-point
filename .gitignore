@@ -1,0 +1,7 @@
+scratch-*/
+scratch-deploy.jpg
+node_modules/
+dist/
+
+# Audit de l'ancien site : conserve en local, non publie
+docs/audit/

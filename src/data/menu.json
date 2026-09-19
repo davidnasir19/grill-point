@@ -1,0 +1,864 @@
+[
+  {
+    "category": "Soup & Salads",
+    "source_page": "our-menu",
+    "icon_class": "sb-bistro-lemon",
+    "image": "/images/2026/04/01/salad-2.jpg",
+    "image_alt": "Soup & Salads",
+    "image_position": "right-bottom",
+    "item_count": 7,
+    "items": [
+      {
+        "name": "Lentil or Chicken Soup",
+        "price_raw": "$7 / $13",
+        "price_variants": [
+          "$7",
+          "$13"
+        ],
+        "description": "Our Soups Are Homemade & Prepared Fresh Daily"
+      },
+      {
+        "name": "Shepherd",
+        "price_raw": "$11 / $17",
+        "price_variants": [
+          "$11",
+          "$17"
+        ],
+        "description": "Freshly chopped tomatoes, cucumbers, onions & parsley with lemon and extra virgin olive oil"
+      },
+      {
+        "name": "Tabboule",
+        "price_raw": "$11 / $17",
+        "price_variants": [
+          "$11",
+          "$17"
+        ],
+        "description": "Finely chopped parsley, garden tomatoes, cucumbers, scallions & cracked wheat (Bulgur) seasoned with lemon & extra virgin olive oil"
+      },
+      {
+        "name": "Fattoush",
+        "price_raw": "$11 / $17",
+        "price_variants": [
+          "$11",
+          "$17"
+        ],
+        "description": "Traditional salad with romaine lettuce, fresh tomatoes, cucumbers, green peppers, radish & red onions, seasoned with our famous house dressing, topped with crispy pita bread"
+      },
+      {
+        "name": "House",
+        "price_raw": "$10 / $16",
+        "price_variants": [
+          "$10",
+          "$16"
+        ],
+        "description": "Lettuce, tomatoes, cucumbers & onions, seasoned with lemon and extra virgin olive oil. Topped with red cabbage"
+      },
+      {
+        "name": "Quinoa Salad",
+        "price_raw": "$11 / $17",
+        "price_variants": [
+          "$11",
+          "$17"
+        ],
+        "description": "Beans, scallions, green & red peppers, parsley, pickles and dill marinated with olive oil and our middle eastern spices"
+      },
+      {
+        "name": "Chickpeas Salad",
+        "price_raw": "$11 / $17",
+        "price_variants": [
+          "$11",
+          "$17"
+        ],
+        "description": "Chickpeas, scallions, red peppers, parsley and cilantro seasoned with extra virgin olive oil and our mediterranean spices"
+      }
+    ]
+  },
+  {
+    "category": "Cold Appetizers",
+    "source_page": "our-menu",
+    "icon_class": "sb-bistro-appetizer",
+    "image": "/images/2026/04/01/cold-appetizers.jpeg",
+    "image_alt": "Cold Appetizers",
+    "image_position": "left-top",
+    "item_count": 8,
+    "items": [
+      {
+        "name": "Hummus",
+        "price_raw": "$10",
+        "price_variants": [
+          "$10"
+        ],
+        "description": "Pureed chickpeas with a hint of garlic, lemon, herbs & extra virgin olive oil. Served with Lebanese Bread"
+      },
+      {
+        "name": "Baba Ghanoush",
+        "price_raw": "$10",
+        "price_variants": [
+          "$10"
+        ],
+        "description": "Pureed smoked eggplant with garlic, tahini & extra virgin olive oil"
+      },
+      {
+        "name": "Labne",
+        "price_raw": "$10",
+        "price_variants": [
+          "$10"
+        ],
+        "description": "Special yogurt with a hint of garlic, dill, walnuts & extra virgin olive oil"
+      },
+      {
+        "name": "Eggplant Salad",
+        "price_raw": "$10",
+        "price_variants": [
+          "$10"
+        ],
+        "description": "Fried eggplant, peppers, garlic & tomato sauce tossed with our special Mediterranean herbs"
+      },
+      {
+        "name": "Ezme",
+        "price_raw": "$10",
+        "price_variants": [
+          "$10"
+        ],
+        "description": "Fresh tomatoes, onions, garlic, walnuts, red peppers & our special spices"
+      },
+      {
+        "name": "Grape Leaves",
+        "price_raw": "$12",
+        "price_variants": [
+          "$12"
+        ],
+        "description": "Grape leaves stuffed with rice, tomatoes, onions, parsley & our special spices"
+      },
+      {
+        "name": "Mediterranean Cheese Dip",
+        "price_raw": "$10",
+        "price_variants": [
+          "$10"
+        ],
+        "description": "White cheese with tomato, cucumber, green peppers mixed with our house spices"
+      },
+      {
+        "name": "Cold Mixed Appetizers",
+        "price_raw": "$35",
+        "price_variants": [
+          "$35"
+        ],
+        "description": "Hummus, baba ghanoush, labne, eggplant salad, ezme & grape leaves"
+      }
+    ]
+  },
+  {
+    "category": "Hot Appetizers",
+    "source_page": "our-menu",
+    "icon_class": "sb-bistro-sausage",
+    "image": "/images/2026/04/01/hot-appetizers.jpeg",
+    "image_alt": "Hot Appetizers",
+    "image_position": "right-top",
+    "item_count": 11,
+    "items": [
+      {
+        "name": "Kibbe",
+        "price_raw": "$10",
+        "price_variants": [
+          "$10"
+        ],
+        "description": "Mediterranean meatballs prepared with fresh ground beef, bulgur, spices, onions & pine nuts, fried to a golden brown"
+      },
+      {
+        "name": "Sigara Borek",
+        "price_raw": "$12",
+        "price_variants": [
+          "$12"
+        ],
+        "description": "Feta and mozzarella cheese with parsley wrapped in filo dough fried to a golden brown"
+      },
+      {
+        "name": "Falafel",
+        "price_raw": "$10",
+        "price_variants": [
+          "$10"
+        ],
+        "description": "Ground fava beans, garlic, onion, parsley & our Mediterranean spices"
+      },
+      {
+        "name": "Grape Leaves",
+        "price_raw": "$14",
+        "price_variants": [
+          "$14"
+        ],
+        "description": "(Lebanese style) stuffed with meat, rice with our famous herbs & lemon served with yogurt sauce"
+      },
+      {
+        "name": "Stuffed Cabbage",
+        "price_raw": "$14",
+        "price_variants": [
+          "$14"
+        ],
+        "description": "With rice, tomatoes, onions, parsley, cilantro & dill"
+      },
+      {
+        "name": "Egyptian Meat Roll",
+        "price_raw": "$12",
+        "price_variants": [
+          "$12"
+        ],
+        "description": "Ground meat seasoned with our spices wrapped in filo dough fried to golden brown"
+      },
+      {
+        "name": "Spinach Roll",
+        "price_raw": "$12",
+        "price_variants": [
+          "$12"
+        ],
+        "description": "Spinach & feta cheese with our spices wrapped in filo dough fried to golden brown"
+      },
+      {
+        "name": "Calves Liver",
+        "price_raw": "$17",
+        "price_variants": [
+          "$17"
+        ],
+        "description": "Pan fried liver cooked to perfection. Served with salad"
+      },
+      {
+        "name": "Foul Medames",
+        "price_raw": "$12",
+        "price_variants": [
+          "$12"
+        ],
+        "description": "Fava beans mixed with tahini and our special spices"
+      },
+      {
+        "name": "Hot Mixed Appetizers",
+        "price_raw": "$35",
+        "price_variants": [
+          "$35"
+        ],
+        "description": "Kibbe, sigara borek, falafel, grape leaves, Egyptian meat roll & spinach roll"
+      },
+      {
+        "name": "Chicken Wings",
+        "price_raw": "$14",
+        "price_variants": [
+          "$14"
+        ],
+        "description": "Grilled chicken wings marinated with our homemade seasoning"
+      }
+    ]
+  },
+  {
+    "category": "Vegetarian Entrees",
+    "source_page": "our-menu",
+    "icon_class": "sb-bistro-menu",
+    "image": "/images/2026/04/01/vegetable-kebab.jpg",
+    "image_alt": "Vegetarian Entrees",
+    "image_position": "left-top",
+    "item_count": 7,
+    "items": [
+      {
+        "name": "Koshary",
+        "price_raw": "$17",
+        "price_variants": [
+          "$17"
+        ],
+        "description": "Rice, macaroni, lentil, chickpeas topped with fried onion & tomato sauce"
+      },
+      {
+        "name": "Falafel",
+        "price_raw": "$18",
+        "price_variants": [
+          "$18"
+        ],
+        "description": "Ground fava beans, garlic, onion, parsley mixed with our Mediterranean herbs. Served with rice & bulgur"
+      },
+      {
+        "name": "Stuffed Cabbage",
+        "price_raw": "$22",
+        "price_variants": [
+          "$22"
+        ],
+        "description": "With rice, tomatoes, onions, parsley, cilantro & dill"
+      },
+      {
+        "name": "Baby Okra",
+        "price_raw": "$19",
+        "price_variants": [
+          "$19"
+        ],
+        "description": "Served with rice"
+      },
+      {
+        "name": "Stuffed Grape Leaves",
+        "price_raw": "$22",
+        "price_variants": [
+          "$22"
+        ],
+        "description": "Served cold"
+      },
+      {
+        "name": "Mixed Vegetable Kebab",
+        "price_raw": "$20",
+        "price_variants": [
+          "$20"
+        ],
+        "description": "Served with rice, mixed greens, and grilled tomatoes and peppers"
+      },
+      {
+        "name": "Stuffed Vegetables",
+        "price_raw": "$20",
+        "price_variants": [
+          "$20"
+        ],
+        "description": "Eggplant, zucchini, green pepper stuffed with rice, tomato, onion, parsley, cilantro & dill"
+      }
+    ]
+  },
+  {
+    "category": "Side Orders",
+    "source_page": "our-menu",
+    "icon_class": "sb-bistro-french-fries",
+    "image": "/images/2026/04/01/side.jpg",
+    "image_alt": "Side Orders",
+    "image_position": "right-top",
+    "item_count": 7,
+    "items": [
+      {
+        "name": "Bulgur",
+        "price_raw": "$7",
+        "price_variants": [
+          "$7"
+        ],
+        "description": "Side order"
+      },
+      {
+        "name": "Rice",
+        "price_raw": "$7",
+        "price_variants": [
+          "$7"
+        ],
+        "description": "Side order"
+      },
+      {
+        "name": "French Fries",
+        "price_raw": "$7",
+        "price_variants": [
+          "$7"
+        ],
+        "description": "Side order"
+      },
+      {
+        "name": "Feta Cheese",
+        "price_raw": "$4",
+        "price_variants": [
+          "$4"
+        ],
+        "description": "Side order"
+      },
+      {
+        "name": "Lemon Roasted Potatoes",
+        "price_raw": "$7",
+        "price_variants": [
+          "$7"
+        ],
+        "description": "Side order"
+      },
+      {
+        "name": "Turkish Bread",
+        "price_raw": "$3",
+        "price_variants": [
+          "$3"
+        ],
+        "description": "Side order"
+      },
+      {
+        "name": "Lebanese Pita Bread",
+        "price_raw": "$2",
+        "price_variants": [
+          "$2"
+        ],
+        "description": "Side order"
+      }
+    ]
+  },
+  {
+    "category": "Entrees",
+    "source_page": "our-menu",
+    "icon_class": "sb-bistro-dinner",
+    "image": "/images/2026/04/01/entrees.jpeg",
+    "image_alt": "Entrees",
+    "image_position": "left-top",
+    "item_count": 16,
+    "items": [
+      {
+        "name": "Chicken Shish Kebab",
+        "price_raw": "$24",
+        "price_variants": [
+          "$24"
+        ],
+        "description": "Tender cubes of chicken breast marinated with our homemade seasoning"
+      },
+      {
+        "name": "Lamb Shish Kebab",
+        "price_raw": "$28",
+        "price_variants": [
+          "$28"
+        ],
+        "description": "Char grilled baby lamb marinated with our homemade seasoning"
+      },
+      {
+        "name": "Filet Mignon Kebab",
+        "price_raw": "$31",
+        "price_variants": [
+          "$31"
+        ],
+        "description": "Tender cubes of filet mignon marinated with our homemade seasoning"
+      },
+      {
+        "name": "Chicken Chops",
+        "price_raw": "$24",
+        "price_variants": [
+          "$24"
+        ],
+        "description": "Boneless chicken thighs marinated with our homemade seasoning"
+      },
+      {
+        "name": "Adana Kebab",
+        "price_raw": "$25",
+        "price_variants": [
+          "$25"
+        ],
+        "description": "Skewered ground meat marinated with our homemade seasoning"
+      },
+      {
+        "name": "Adana Chicken",
+        "price_raw": "$24",
+        "price_variants": [
+          "$24"
+        ],
+        "description": "Skewered ground chicken marinated with our homemade seasoning"
+      },
+      {
+        "name": "Beef and Lamb Shawarma (Döner)",
+        "price_raw": "$25",
+        "price_variants": [
+          "$25"
+        ],
+        "description": "Thinly sliced beef & lamb cooked on a vertical spit"
+      },
+      {
+        "name": "Chicken Shawarma (Döner)",
+        "price_raw": "$24",
+        "price_variants": [
+          "$24"
+        ],
+        "description": "Thinly sliced chicken cooked on a vertical spit"
+      },
+      {
+        "name": "GP Mixed Grill",
+        "price_raw": "$35-$95",
+        "price_variants": [
+          "$35-$95"
+        ],
+        "description": "Our signature plate includes chicken shish kebab, lamb shish kebab, adana kebab, beef and lamb shawarma & chicken shawarma (For One 35, Two 48, Three 80, Four 95)"
+      },
+      {
+        "name": "Lamb Chops",
+        "price_raw": "$32",
+        "price_variants": [
+          "$32"
+        ],
+        "description": "Char grilled baby lamb chops marinated with our homemade seasoning"
+      },
+      {
+        "name": "Lamb Shank",
+        "price_raw": "$30",
+        "price_variants": [
+          "$30"
+        ],
+        "description": "topped with layer of eggplant"
+      },
+      {
+        "name": "Iskander Kebab",
+        "price_raw": "$25",
+        "price_variants": [
+          "$25"
+        ],
+        "description": "Beef and lamb shawarma topped on bread and covered by a layer of yogurt sauce and red sauce"
+      },
+      {
+        "name": "Beyti Kebab",
+        "price_raw": "$25",
+        "price_variants": [
+          "$25"
+        ],
+        "description": "Lamb adana wrapped and covered with yogurt and red sauce"
+      },
+      {
+        "name": "Bronzini",
+        "price_raw": "$32",
+        "price_variants": [
+          "$32"
+        ],
+        "description": "whole fish grilled to perfection"
+      },
+      {
+        "name": "Shrimp Kebab",
+        "price_raw": "$28",
+        "price_variants": [
+          "$28"
+        ],
+        "description": "Char grilled jumbo shrimp with our homemade seasoning"
+      },
+      {
+        "name": "Salmon",
+        "price_raw": "$27",
+        "price_variants": [
+          "$27"
+        ],
+        "description": "grilled to perfection"
+      }
+    ]
+  },
+  {
+    "category": "Pita Wraps",
+    "source_page": "our-menu",
+    "icon_class": "sb-bistro-saslik",
+    "image": "/images/2026/04/01/pita.jpg",
+    "image_alt": "Pita Wraps",
+    "image_position": "right-top",
+    "item_count": 8,
+    "items": [
+      {
+        "name": "Chicken Shish Kebab",
+        "price_raw": "$12",
+        "price_variants": [
+          "$12"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Lamb Shish Kebab",
+        "price_raw": "$15",
+        "price_variants": [
+          "$15"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Adana Kebab",
+        "price_raw": "$12",
+        "price_variants": [
+          "$12"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Chicken Adana",
+        "price_raw": "$12",
+        "price_variants": [
+          "$12"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Beef & Lamb Shawarma",
+        "price_raw": "$12",
+        "price_variants": [
+          "$12"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Chicken Shawarma",
+        "price_raw": "$12",
+        "price_variants": [
+          "$12"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Shrimp Kebab",
+        "price_raw": "$16",
+        "price_variants": [
+          "$16"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Falafel",
+        "price_raw": "$11",
+        "price_variants": [
+          "$11"
+        ],
+        "description": ""
+      }
+    ]
+  },
+  {
+    "category": "Kids Menu",
+    "source_page": "our-menu",
+    "icon_class": "sb-bistro-taco",
+    "image": "/images/2026/04/01/kids.jpg",
+    "image_alt": "Kids Menu",
+    "image_position": "left-top",
+    "item_count": 8,
+    "items": [
+      {
+        "name": "Chicken Fingers",
+        "price_raw": "$13",
+        "price_variants": [
+          "$13"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Mozzarella Sticks",
+        "price_raw": "$13",
+        "price_variants": [
+          "$13"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Chicken Shish Kebab",
+        "price_raw": "$13",
+        "price_variants": [
+          "$13"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Lamb Shish Kebab",
+        "price_raw": "$16",
+        "price_variants": [
+          "$16"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Adana Kebab",
+        "price_raw": "$13",
+        "price_variants": [
+          "$13"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Chicken Adana",
+        "price_raw": "$13",
+        "price_variants": [
+          "$13"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Beef & Lamb Shawarma",
+        "price_raw": "$13",
+        "price_variants": [
+          "$13"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Chicken Shawarma",
+        "price_raw": "$13",
+        "price_variants": [
+          "$13"
+        ],
+        "description": ""
+      }
+    ]
+  },
+  {
+    "category": "Beverages",
+    "source_page": "our-menu",
+    "icon_class": "sb-bistro-drinks",
+    "image": "/images/2026/04/01/beverages.jpg",
+    "image_alt": "Beverages",
+    "image_position": "right-top",
+    "item_count": 13,
+    "items": [
+      {
+        "name": "Coffee",
+        "price_raw": "$4",
+        "price_variants": [
+          "$4"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Turkish Coffee",
+        "price_raw": "$4",
+        "price_variants": [
+          "$4"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Turkish Tea",
+        "price_raw": "$3",
+        "price_variants": [
+          "$3"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Turkish Gazoz",
+        "price_raw": "$3",
+        "price_variants": [
+          "$3"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Herbal Tea",
+        "price_raw": "$3",
+        "price_variants": [
+          "$3"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Hibiscus",
+        "price_raw": "$3",
+        "price_variants": [
+          "$3"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Soda",
+        "price_raw": "$3",
+        "price_variants": [
+          "$3"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Poland Spring",
+        "price_raw": "$2",
+        "price_variants": [
+          "$2"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Pellegrino",
+        "price_raw": "$6 Large / $3 Small",
+        "price_variants": [
+          "$6 Large",
+          "$3 Small"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Juices",
+        "price_raw": "$4",
+        "price_variants": [
+          "$4"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Iced Tea",
+        "price_raw": "$3",
+        "price_variants": [
+          "$3"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Snapple",
+        "price_raw": "$3",
+        "price_variants": [
+          "$3"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Ayran",
+        "price_raw": "$4",
+        "price_variants": [
+          "$4"
+        ],
+        "description": ""
+      }
+    ]
+  },
+  {
+    "category": "Sweet Corner",
+    "source_page": "our-menu",
+    "icon_class": "sb-bistro-spoon-plate",
+    "image": "/images/2026/04/01/sweet-corner.jpg",
+    "image_alt": "Sweet Corner",
+    "image_position": "left-top",
+    "item_count": 8,
+    "items": [
+      {
+        "name": "Baklava with pistachios",
+        "price_raw": "$10",
+        "price_variants": [
+          "$10"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Baklava with walnuts",
+        "price_raw": "$10",
+        "price_variants": [
+          "$10"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Rice Pudding with pistachios",
+        "price_raw": "$10",
+        "price_variants": [
+          "$10"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Kazandibi",
+        "price_raw": "$10",
+        "price_variants": [
+          "$10"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Kunefe topped with pistachios",
+        "price_raw": "$10",
+        "price_variants": [
+          "$10"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Kunefe with cheese, topped with pistachios",
+        "price_raw": "$15",
+        "price_variants": [
+          "$15"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Family Size Kunefe with cheese, topped with pistachios",
+        "price_raw": "$24",
+        "price_variants": [
+          "$24"
+        ],
+        "description": ""
+      },
+      {
+        "name": "Turkish Halva",
+        "price_raw": "$7",
+        "price_variants": [
+          "$7"
+        ],
+        "description": ""
+      }
+    ]
+  }
+]

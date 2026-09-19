@@ -1,0 +1,27 @@
+{
+  "name": "grill-point-experience",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1 --port 5173",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview --port 4173",
+    "assets": "python3 scripts/build-assets.py",
+    "map": "python3 scripts/fetch-map.py",
+    "verify": "node scripts/verify-assets.mjs",
+    "shots": "node scripts/shots.mjs 1440 900 scratch-shots",
+    "check:deploy": "node scripts/serve-subpath.mjs & sleep 2 && node scripts/check-deploy.mjs"
+  },
+  "dependencies": {
+    "gsap": "^3.15.0",
+    "lenis": "^1.3.26",
+    "three": "^0.186.0"
+  },
+  "devDependencies": {
+    "@types/three": "^0.186.0",
+    "puppeteer-core": "^25.11.0",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.0"
+  }
+}

@@ -1,0 +1,38 @@
+:root {
+  /* Night & paper: the two worlds of the story */
+  --night: #0b0a0a;
+  --night-2: #16120f;
+  --night-3: #221a15;
+  --cream: #f4ecdf;
+  --paper: #efe4d2;
+  --paper-2: #e6d8c1;
+  --ink: #2e1e16;
+  /* Fire */
+  --ember: #e8622a;
+  --flame: #f5a040;
+  --sign: #f6c545;          /* the exact yellow of the illuminated sign */
+  /* Brand red — the AA-compliant tone from the existing charter */
+  --brand: #c5161b;
+  --brand-bright: #e7272d;  /* accents only, never as text on light */
+  --brand-deep: #3a0d0f;    /* the leather of the menu book */
+  --gold: #d9a441;
+  --muted: rgba(244, 236, 223, 0.62);
+  --line: rgba(244, 236, 223, 0.14);
+
+  --font-display: 'Fraunces', 'Iowan Old Style', Georgia, serif;
+  --font-ui: 'Manrope', system-ui, -apple-system, 'Segoe UI', sans-serif;
+
+  --text-xs: clamp(0.72rem, 0.68rem + 0.2vw, 0.82rem);
+  --text-sm: clamp(0.86rem, 0.8rem + 0.25vw, 0.98rem);
+  --text-md: clamp(1rem, 0.95rem + 0.3vw, 1.15rem);
+  --text-lg: clamp(1.25rem, 1.1rem + 0.7vw, 1.75rem);
+  --text-xl: clamp(2rem, 1.4rem + 2.6vw, 4.2rem);
+  --text-2xl: clamp(2.8rem, 1.6rem + 5.2vw, 7.5rem);
+
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+  --ease-in-out: cubic-bezier(0.65, 0, 0.35, 1);
+  --radius: 14px;
+  --radius-lg: 22px;
+  --gutter: clamp(16px, 4vw, 64px);
+  --dock-h: 64px;
+}

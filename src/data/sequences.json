@@ -1,0 +1,22 @@
+{
+ "VID_02_INSIDE": {
+  "frames": 40,
+  "kb": 2637
+ },
+ "VID_03_GRILL": {
+  "frames": 48,
+  "kb": 1231
+ },
+ "VID_A_ENTER": {
+  "frames": 48,
+  "kb": 2318
+ },
+ "VID_C_TOFIRE": {
+  "frames": 44,
+  "kb": 2702
+ },
+ "VID_D_PLATE": {
+  "frames": 44,
+  "kb": 752
+ }
+}
